@@ -1,0 +1,9 @@
+Order_ID,Product,Category,Quantity,Price,Region
+101,Laptop,Electronics,2,50000,North
+102,Mobile,Electronics,3,20000,South
+103,Tablet,Electronics,1,15000,East
+104,Laptop,Electronics,2,50000,West
+105,Mobile,Electronics,4,20000,North
+106,Tablet,Electronics,2,15000,South
+107,Laptop,Electronics,1,50000,East
+108,Mobile,Electronics,3,20000,West
